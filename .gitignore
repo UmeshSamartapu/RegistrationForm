@@ -1,0 +1,22 @@
+# Ignore package-lock.json and package.json
+package-lock.json
+package.json
+
+# Node.js
+node_modules/
+npm-debug.log
+.env
+coverage/
+
+# Build directories
+dist/
+build/
+
+# IDE or editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
